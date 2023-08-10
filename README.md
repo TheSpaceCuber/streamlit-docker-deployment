@@ -1,4 +1,5 @@
 # Sample Digital Ocean Deployment for Streamlit
+This repository was used to test the deployment of a Streamlit app on Digital Ocean.
 
 ## What you need to change
 1. Edit ```./do/app.yaml```
